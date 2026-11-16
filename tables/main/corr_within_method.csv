@@ -1,0 +1,7 @@
+metric,pooled_patch_level,within_method,mean_per_method,n_methods_with_defined_rho
+PSNR,-0.756,-0.593,-0.551,15
+SSIM,-0.564,-0.272,-0.344,15
+SAM,0.726,0.489,0.548,14
+ERGAS,0.574,0.234,0.237,15
+MAE,0.708,0.501,0.487,15
+RMSE,0.756,0.578,0.551,15
